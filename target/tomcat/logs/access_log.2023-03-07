@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:02:47 +0300] "GET /api/posts%0A HTTP/1.1" 404 975 http-bio-8088-exec-10 638
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:30:20 +0300] "GET /SimpleServlet HTTP/1.1" 200 40 http-bio-8088-exec-2 524
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:32:19 +0300] "GET /SimpleServlet%0A HTTP/1.1" 404 983 http-bio-8088-exec-5 31
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:34:03 +0300] "GET /SimpleServlet HTTP/1.1" 200 40 http-bio-8088-exec-2 312
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:34:15 +0300] "GET /help HTTP/1.1" 404 959 http-bio-8088-exec-5 18
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:35:59 +0300] "GET / HTTP/1.1" 200 57 http-bio-8088-exec-7 762
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:36:07 +0300] "GET /SimpleServlet HTTP/1.1" 200 40 http-bio-8088-exec-10 9
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:37:09 +0300] "GET /SimpleServlet HTTP/1.1" 200 40 http-bio-8088-exec-1 211
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:37:20 +0300] "GET /SimpleServlet/help HTTP/1.1" 404 987 http-bio-8088-exec-5 13
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:37:28 +0300] "GET /help HTTP/1.1" 404 959 http-bio-8088-exec-8 6
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:37:37 +0300] "GET /SimpleServlet/help HTTP/1.1" 404 987 http-bio-8088-exec-1 10
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:37:41 +0300] "GET /SimpleServlet HTTP/1.1" 200 40 http-bio-8088-exec-2 2
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:47:11 +0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8088-exec-6 370

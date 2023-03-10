@@ -1,0 +1,16 @@
+crudapp\model\User.class
+crudapp\util\ConnectionHibernate.class
+crudapp\repository\base\HibernateFileRepositoryImpl.class
+crudapp\model\Event.class
+crudapp\repository\FileRepository.class
+crudapp\controller\FileRestControllerV1.class
+crudapp\repository\base\HibernateUserRepositoryImpl.class
+crudapp\controller\EventRestControllerV1.class
+crudapp\repository\base\HibernateEventRepositoryImpl.class
+crudapp\model\File.class
+crudapp\repository\UserRepository.class
+crudapp\controller\UserRestControllerV1.class
+crudapp\service\GenericService.class
+StatusCodeDemo.class
+crudapp\repository\GenericRepository.class
+crudapp\repository\EventRepository.class
